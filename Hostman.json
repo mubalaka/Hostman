@@ -1,3 +1,9 @@
 [
-  
+{
+    "id": "6d95fal7c7e40bea",
+    "username": "hostman",
+    "password": "dev256",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
 ]
